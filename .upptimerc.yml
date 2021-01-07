@@ -1,15 +1,13 @@
 # Change these first
 owner: viliev # Your GitHub username
-repo: viliev/uptime # Your GitHub repository name
-
+repo: uptime  # Your GitHub repository name
+user-agent: uptime-github
 # Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: DIR>BG
+    url: https://dir.bg
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD

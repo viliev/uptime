@@ -8,6 +8,8 @@ sites:
     url: https://www.google.com
   - name: Dir.bg
     url: https://dir.bg
+  - name: Abv.bg
+    url: https://abv.bg
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD

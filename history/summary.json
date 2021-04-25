@@ -40,9 +40,9 @@
     "url": "https://abv.bg",
     "icon": "https://favicons.githubusercontent.com/abv.bg",
     "slug": "abv-bg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1625,
     "timeMonth": 1777,
     "timeYear": 1778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-25": 0
+    }
   },
   {
     "name": "Broken Site",
@@ -95,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "58.42%",
+    "uptime": "58.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.42%",
+    "uptimeYear": "58.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-25": 49,
+      "2021-04-25": 185,
       "2021-04-24": 1440,
       "2021-04-23": 1440,
       "2021-04-22": 1440,

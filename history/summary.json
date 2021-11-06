@@ -48,7 +48,7 @@
     "url": "https://abv.bg",
     "icon": "https://favicons.githubusercontent.com/abv.bg",
     "slug": "abv-bg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
     "uptimeDay": "85.61%",
     "uptimeWeek": "97.94%",
@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-06": 342,
+      "2021-11-06": 348,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
       "2021-11-03": 1440,

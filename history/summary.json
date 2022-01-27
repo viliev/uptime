@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 91,
-    "timeDay": 77,
-    "timeWeek": 82,
+    "timeDay": 86,
+    "timeWeek": 85,
     "timeMonth": 77,
     "timeYear": 91,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1657,
-    "timeDay": 1162,
-    "timeWeek": 1035,
+    "time": 1656,
+    "timeDay": 1143,
+    "timeWeek": 1075,
     "timeMonth": 1068,
-    "timeYear": 1638,
+    "timeYear": 1636,
     "dailyMinutesDown": {
       "2021-07-24": 29,
       "2021-07-12": 49,
@@ -50,14 +50,14 @@
     "slug": "abv-bg",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "94.83%",
+    "uptimeDay": "95.50%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.17%",
-    "time": 1735,
-    "timeDay": 2082,
-    "timeWeek": 1833,
-    "timeMonth": 1894,
+    "time": 1736,
+    "timeDay": 2081,
+    "timeWeek": 1924,
+    "timeMonth": 1895,
     "timeYear": 1732,
     "dailyMinutesDown": {
       "2022-01-26": 74,
@@ -116,8 +116,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 17,
-    "timeWeek": 18,
+    "timeDay": 18,
+    "timeWeek": 20,
     "timeMonth": 18,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -128,7 +128,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "28.20%",
+    "uptime": "28.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -139,7 +139,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-26": 107,
+      "2022-01-27": 42,
+      "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
       "2022-01-23": 1440,
@@ -502,8 +503,7 @@
       "2021-01-31": 1440,
       "2021-01-30": 1440,
       "2021-01-29": 1440,
-      "2021-01-28": 1440,
-      "2021-01-27": 1440
+      "2021-01-28": 1440
     }
   }
 ]

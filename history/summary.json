@@ -52,8 +52,8 @@
     "slug": "abv-bg",
     "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.29%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.28%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "99.00%",
     "time": 1748,
@@ -62,7 +62,7 @@
     "timeMonth": 1708,
     "timeYear": 1745,
     "dailyMinutesDown": {
-      "2022-05-18": 0,
+      "2022-05-18": 1,
       "2022-05-12": 172,
       "2022-05-06": 110,
       "2022-05-05": 119,
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-18": 56,
+      "2022-05-18": 57,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,

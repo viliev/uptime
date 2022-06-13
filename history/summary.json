@@ -49,18 +49,19 @@
     "icon": "https://favicons.githubusercontent.com/abv.bg",
     "slug": "abv-bg",
     "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "59.36%",
-    "uptimeWeek": "88.95%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "98.73%",
+    "uptime": "99.10%",
+    "uptimeDay": "53.46%",
+    "uptimeWeek": "88.11%",
+    "uptimeMonth": "96.59%",
+    "uptimeYear": "98.72%",
     "time": 1751,
     "timeDay": 2532,
     "timeWeek": 2056,
     "timeMonth": 1742,
     "timeYear": 1751,
     "dailyMinutesDown": {
-      "2022-06-12": 585,
+      "2022-06-13": 72,
+      "2022-06-12": 598,
       "2022-06-11": 319,
       "2022-06-10": 210,
       "2022-05-28": 81,
@@ -143,7 +144,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.41%",
+    "uptime": "22.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -154,7 +155,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-12": 1427,
+      "2022-06-13": 72,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -517,8 +519,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   }
 ]
